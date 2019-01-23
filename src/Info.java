@@ -225,5 +225,6 @@ if (minute == 0){
         Info info = new Info(data);
         System.out.println(info.getMaxPrice());
         System.out.println(info.getMinPrice());
+        System.out.println("Joey is a nerd!");
     }
 }
